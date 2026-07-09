@@ -73,11 +73,4 @@
 
 ---
 
-### 📈 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SumanthBHegde&show_icons=true&theme=default&hide_border=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumanthBHegde&layout=compact&theme=default&hide_border=true" alt="top languages"/>
-</p>
-
 <p align="center"><i>Building from first principles. Shipping real things.</i></p>
