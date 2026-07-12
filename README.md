@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sumanth-hegde"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/sumanth-hegde-37805a2b9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:sumanthbhegde12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=SumanthBHegde&style=flat&color=blue" alt="Profile views"/>
 </p>
